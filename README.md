@@ -5,7 +5,7 @@ Easily convert Premiere Pro marker csv file to YouTube ready timestamps
 ## Usage
 
 Export markers as `.csv` in Premiere and then run
-```python
+```bash
 python marker-conv.py path-to-file [-t/--titlecase]
 ```
 

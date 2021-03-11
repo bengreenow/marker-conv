@@ -4,7 +4,7 @@ Easily convert Premiere Pro marker csv file to YouTube ready
 
 ### TODO
 
--   [ ] CLI
--   [ ] Use `pandas` to object-ize timestamps
+-   [x] CLI
+-   [x] Object-ize timestamps
     -   [ ] Time shift helper function
--   [ ] To-title-case
+-   [x] To-title-case

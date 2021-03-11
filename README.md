@@ -1,6 +1,6 @@
 # marker-conv
 
-Easily convert Premiere Pro marker csv file to YouTube ready
+Easily convert Premiere Pro marker csv file to YouTube ready timestamps
 
 ### TODO
 
